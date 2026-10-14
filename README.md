@@ -13,16 +13,16 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,45:172554,75:312E81,100:00BFFF&height=55&text=%E2%9C%A6%20DEPLOY%20ON%20RAILWAY%20%E2%9C%A6&fontColor=FFFFFF&fontSize=18&fontAlignY=52&animation=twinkling" />
   </a>
   &nbsp;
-  <a href="https://github.com/hdzirxluci-hub/pablo-panel">
+  <a href="https://github.com/hdzirxluci-hub/mosi-panel">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,45:172554,75:4C1D95,100:7C3AED&height=55&text=%E2%9C%A6%20VIEW%20ON%20GITHUB%20%E2%9C%A6&fontColor=FFFFFF&fontSize=18&fontAlignY=52&animation=twinkling" />
   </a>
 </p>
 
 ---
 
-## ✦ درباره Pablo Panel
+## ✦ درباره Mosi Panel
 
-**Pablo Panel** یک پنل مدرن برای مدیریت سرویس‌ها و اطلاعات کاربران است که با تمرکز روی ظاهر حرفه‌ای، استفاده راحت در موبایل و نمایش مرتب اطلاعات طراحی شده است.
+**Mosi Panel** یک پنل مدرن برای مدیریت سرویس‌ها و اطلاعات کاربران است که با تمرکز روی ظاهر حرفه‌ای، استفاده راحت در موبایل و نمایش مرتب اطلاعات طراحی شده است.
 
 پنل می‌تواند اطلاعات سرویس‌ها، کاربران، حجم مصرفی، تاریخ انقضا، کانفیگ‌ها و لینک اشتراک را در یک رابط کاربری جمع‌وجور و مدرن نمایش دهد.
 
@@ -32,7 +32,7 @@
 
 ## ✦ ظاهر و تجربه کاربری
 
-رابط کاربری Pablo Panel بر پایه یک ظاهر تاریک و مدرن طراحی شده است.
+رابط کاربری Mosi Panel بر پایه یک ظاهر تاریک و مدرن طراحی شده است.
 
 • پس‌زمینه تیره و فضایی  
 • ترکیب آبی، Cyan و Purple  
@@ -50,7 +50,7 @@
 
 <pre>
 ╭──────────────────────────────╮
-│        ✦ PABLO PANEL ✦       │
+│        ✦ MOSI PANEL ✦       │
 │                              │
 │   USERNAME                   │
 │   ───────────────────────    │
@@ -75,7 +75,7 @@
 
 ## 🧩 پنل از چه بخش‌هایی تشکیل شده؟
 
-Pablo Panel فقط یک صفحه ساده برای نمایش لینک نیست؛ بخش‌های مختلف پنل برای مدیریت اطلاعات سرویس کنار هم قرار گرفته‌اند.
+Mosi Panel فقط یک صفحه ساده برای نمایش لینک نیست؛ بخش‌های مختلف پنل برای مدیریت اطلاعات سرویس کنار هم قرار گرفته‌اند.
 
 ### 👤 کاربران
 
@@ -194,14 +194,14 @@ GitHub Repository
        ↓
      Deploy
        ↓
-   Pablo Panel
+   Mosi Panel
 </pre>
 
 ---
 
 # 📱 Mobile First
 
-Pablo Panel با تمرکز روی موبایل ساخته شده است.
+Mosi Panel با تمرکز روی موبایل ساخته شده است.
 
 طراحی صفحه باید به گونه‌ای باشد که:
 
@@ -241,7 +241,7 @@ Pablo Panel با تمرکز روی موبایل ساخته شده است.
 
 # ✦ هدف پروژه
 
-هدف Pablo Panel ساخت یک تجربه ساده و حرفه‌ای برای کاربری است که فقط می‌خواهد وارد پنل شود، وضعیت سرویس خود را ببیند و اطلاعات اتصالش را سریع دریافت کند.
+هدف Mosi Panel ساخت یک تجربه ساده و حرفه‌ای برای کاربری است که فقط می‌خواهد وارد پنل شود، وضعیت سرویس خود را ببیند و اطلاعات اتصالش را سریع دریافت کند.
 
 بدون صفحه‌های شلوغ.
 
@@ -258,7 +258,7 @@ Pablo Panel با تمرکز روی موبایل ساخته شده است.
 اگر این پروژه برایت مفید بود، می‌توانی با Star کردن Repository از پروژه حمایت کنی.
 
 <p align="center">
-  <a href="https://github.com/hdzirxluci-hub/pablo-panel">
+  <a href="https://github.com/hdzirxluci-hub/mosi-panel">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,45:172554,75:4C1D95,100:7C3AED&height=55&text=%E2%9C%A6%20%E2%98%85%20STAR%20THE%20PROJECT%20%E2%98%85%20%E2%9C%A6&fontColor=FFFFFF&fontSize=18&fontAlignY=52&animation=twinkling" />
   </a>
 </p>
@@ -268,8 +268,8 @@ Pablo Panel با تمرکز روی موبایل ساخته شده است.
 # ✦ Repository
 
 <p align="center">
-  <a href="https://github.com/hdzirxluci-hub/pablo-panel">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,45:172554,75:312E81,100:00BFFF&height=55&text=%E2%9C%A6%20VIEW%20PABLO%20PANEL%20ON%20GITHUB%20%E2%9C%A6&fontColor=FFFFFF&fontSize=17&fontAlignY=52&animation=twinkling" />
+  <a href="https://github.com/hdzirxluci-hub/mosi-panel">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,45:172554,75:312E81,100:00BFFF&height=55&text=%E2%9C%A6%20VIEW%20MOSI%20PANEL%20ON%20GITHUB%20%E2%9C%A6&fontColor=FFFFFF&fontSize=17&fontAlignY=52&animation=twinkling" />
   </a>
 </p>
 
@@ -277,7 +277,7 @@ Pablo Panel با تمرکز روی موبایل ساخته شده است.
 
 # 💙 حرف آخر
 
-Pablo Panel برای این ساخته شده که مدیریت سرویس‌ها و نمایش اطلاعات کاربران، هم ساده باشد و هم ظاهر حرفه‌ای خودش را حفظ کند.
+Mosi Panel برای این ساخته شده که مدیریت سرویس‌ها و نمایش اطلاعات کاربران، هم ساده باشد و هم ظاهر حرفه‌ای خودش را حفظ کند.
 
 **مدیریت سرویس، ساده‌تر از همیشه.**
 
