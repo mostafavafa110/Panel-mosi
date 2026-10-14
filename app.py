@@ -277,7 +277,7 @@ def build_xray_config():
                         "target": REALITY_TARGET + ":443",
                         "xver": 0,
                         "fingerprint": "chrome",
-                        "serverNames": [REALITY_TARGET],
+                        "serverName": REALITY_TARGET,
                         "privateKey": reality_keys.get("privateKey", ""),
                         "shortIds": [reality_keys.get("shortId", "")]
                     }
@@ -1490,7 +1490,7 @@ def build_reality_only_config(users):
                         "target": REALITY_TARGET + ":443",
                         "xver": 0,
                         "fingerprint": "chrome",
-                        "serverNames": [REALITY_TARGET],
+                        "serverName": REALITY_TARGET,
                         "privateKey": reality_keys.get("privateKey", ""),
                         "shortIds": [reality_keys.get("shortId", "")]
                     }
