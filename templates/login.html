@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<title>PabloPanel | Login</title>
+<title>MosiPanel | Login</title>
 
 <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
 
@@ -19,8 +19,8 @@
 :root{
     --bg:#02030b;
     --card:rgba(5,8,20,.90);
-    --blue:#00eaff;
-    --cyan:#00c8ff;
+    --blue:#6ee7b7;
+    --cyan:#34d399;
     --purple:#7c3cff;
     --pink:#c43cff;
     --text:#f5f8ff;
@@ -43,12 +43,12 @@ body{
     background:
         radial-gradient(
             circle at 15% 15%,
-            rgba(0,234,255,.15),
+            rgba(110,231,183,.15),
             transparent 28%
         ),
         radial-gradient(
             circle at 85% 85%,
-            rgba(124,60,255,.18),
+            rgba(245,158,11,.18),
             transparent 30%
         ),
         radial-gradient(
@@ -70,12 +70,12 @@ body::before{
 
     background-image:
         linear-gradient(
-            rgba(0,234,255,.025) 1px,
+            rgba(110,231,183,.025) 1px,
             transparent 1px
         ),
         linear-gradient(
             90deg,
-            rgba(0,234,255,.025) 1px,
+            rgba(110,231,183,.025) 1px,
             transparent 1px
         );
 
@@ -101,13 +101,13 @@ body::after{
         linear-gradient(
             90deg,
             transparent,
-            rgba(0,234,255,.55),
-            rgba(124,60,255,.55),
+            rgba(110,231,183,.55),
+            rgba(245,158,11,.55),
             transparent
         );
 
     box-shadow:
-        0 0 20px rgba(0,234,255,.5);
+        0 0 20px rgba(110,231,183,.5);
 
     animation:scan 7s linear infinite;
 }
@@ -169,7 +169,7 @@ body::after{
 
     border-radius:50%;
 
-    background:#00eaff;
+    background:#6ee7b7;
 
     filter:blur(120px);
 
@@ -245,15 +245,15 @@ body::after{
         linear-gradient(
             90deg,
             transparent,
-            #00eaff,
+            #6ee7b7,
             #2874ff,
             #9b4dff,
             transparent
         );
 
     box-shadow:
-        0 0 15px #00eaff,
-        0 0 30px rgba(124,60,255,.5);
+        0 0 15px #6ee7b7,
+        0 0 30px rgba(245,158,11,.5);
 }
 
 /* LOGO */
@@ -283,12 +283,12 @@ body::after{
 
     border:
         1px solid
-        rgba(0,234,255,.20);
+        rgba(110,231,183,.20);
 
     box-shadow:
-        0 0 30px rgba(0,234,255,.13),
-        0 0 60px rgba(124,60,255,.08),
-        inset 0 0 25px rgba(0,234,255,.04);
+        0 0 30px rgba(110,231,183,.13),
+        0 0 60px rgba(245,158,11,.08),
+        inset 0 0 25px rgba(110,231,183,.04);
 
     overflow:hidden;
 
@@ -308,14 +308,14 @@ body::after{
 @keyframes logoGlow{
     0%,100%{
         box-shadow:
-            0 0 25px rgba(0,234,255,.12),
-            0 0 50px rgba(124,60,255,.06);
+            0 0 25px rgba(110,231,183,.12),
+            0 0 50px rgba(245,158,11,.06);
     }
 
     50%{
         box-shadow:
-            0 0 35px rgba(0,234,255,.25),
-            0 0 65px rgba(124,60,255,.14);
+            0 0 35px rgba(110,231,183,.25),
+            0 0 65px rgba(245,158,11,.14);
     }
 }
 
@@ -329,7 +329,7 @@ body::after{
         linear-gradient(
             90deg,
             #fff,
-            #00eaff,
+            #6ee7b7,
             #4285ff,
             #a14dff
         );
@@ -341,7 +341,7 @@ body::after{
 
     text-shadow:
         0 0 25px
-        rgba(0,234,255,.15);
+        rgba(110,231,183,.15);
 }
 
 .brand p{
@@ -376,11 +376,11 @@ body::after{
     border-radius:30px;
 
     background:
-        rgba(0,234,255,.035);
+        rgba(110,231,183,.035);
 
     border:
         1px solid
-        rgba(0,234,255,.10);
+        rgba(110,231,183,.10);
 
     color:#8290a7;
 
@@ -395,10 +395,10 @@ body::after{
 
     border-radius:50%;
 
-    background:#00eaff;
+    background:#6ee7b7;
 
     box-shadow:
-        0 0 10px #00eaff;
+        0 0 10px #6ee7b7;
 
     animation:pulse 1.7s infinite;
 }
@@ -493,22 +493,22 @@ input{
 
 input:focus{
     border-color:
-        rgba(0,234,255,.55);
+        rgba(110,231,183,.55);
 
     box-shadow:
         0 0 0 3px
-        rgba(0,234,255,.04),
+        rgba(110,231,183,.04),
 
         0 0 25px
-        rgba(0,234,255,.12);
+        rgba(110,231,183,.12);
 }
 
 .input-wrap:focus-within .input-icon{
-    color:#00eaff;
+    color:#6ee7b7;
 
     text-shadow:
         0 0 10px
-        rgba(0,234,255,.5);
+        rgba(110,231,183,.5);
 }
 
 input::placeholder{
@@ -641,11 +641,11 @@ input::placeholder{
     border-radius:14px;
 
     background:
-        rgba(0,234,255,.025);
+        rgba(110,231,183,.025);
 
     border:
         1px solid
-        rgba(0,234,255,.075);
+        rgba(110,231,183,.075);
 
     text-align:center;
 }
@@ -669,7 +669,7 @@ input::placeholder{
 }
 
 .default-info strong{
-    color:#00eaff;
+    color:#6ee7b7;
 
     font-weight:900;
 }
@@ -695,7 +695,7 @@ input::placeholder{
 }
 
 .footer span{
-    color:#00d9ff;
+    color:#34d399;
 
     font-weight:900;
 }
@@ -774,15 +774,15 @@ input::placeholder{
 
         <div class="brand">
 
-            <!-- NEW PABLOPANEL LOGO -->
+            <!-- NEW MOSIPANEL LOGO -->
             <div class="logo-wrap">
                 <img
-                    src="/static/pablo-logo.png"
-                    alt="PabloPanel Logo"
+                    src="/static/mosi-logo.png"
+                    alt="MosiPanel Logo"
                 >
             </div>
 
-            <h1>PabloPanel</h1>
+            <h1>MosiPanel</h1>
 
             <p>
                 NEON VLESS MANAGEMENT PANEL
@@ -893,7 +893,7 @@ input::placeholder{
             SECURED BY
 
             <span>
-                PabloPanel
+                MosiPanel
             </span>
 
         </div>

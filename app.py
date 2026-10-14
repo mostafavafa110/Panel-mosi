@@ -19,7 +19,7 @@ except ImportError:
     telebot = None
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("SECRET_KEY", "pablo-rail-secret-key-change-me")
+app.secret_key = os.environ.get("SECRET_KEY", "mosi-rail-secret-key-change-me")
 
 ADMIN_USERNAME = os.environ.get("ADMIN_USER", "admin")
 ADMIN_PASSWORD = os.environ.get("ADMIN_PASS", "admin")
@@ -1219,7 +1219,7 @@ def run_telegram_bot_thread():
                     
                     bot.send_message(
                         message.chat.id,
-                        "⚡ **سلام ادمین گرامی!**\nبه پنل مدیریت تلگرامی Pablo خوش آمدید.\nیکی از دکمه‌های زیر را انتخاب کنید:",
+                        "⚡ **سلام ادمین گرامی!**\nبه پنل مدیریت تلگرامی Mosi خوش آمدید.\nیکی از دکمه‌های زیر را انتخاب کنید:",
                         reply_markup=markup,
                         parse_mode="Markdown"
                     )
@@ -1243,7 +1243,7 @@ def run_telegram_bot_thread():
                         total_gb = round(total_bytes / (1024 ** 3), 2)
 
                         msg = (
-                            f"🌐 **وضعیت سرور Pablo Panel**\n"
+                            f"🌐 **وضعیت سرور Mosi Panel**\n"
                             f"━━━━━━━━━━━━━━━━━━\n"
                             f"👥 کل کاربران: {total} کاربر\n"
                             f"🟢 کاربران فعال: {active} کاربر\n"
