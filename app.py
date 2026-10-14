@@ -280,7 +280,7 @@ def build_xray_config():
                         "serverName": REALITY_TARGET,
                         "privateKey": reality_keys.get("privateKey", ""),
                         "publicKey": reality_keys.get("publicKey", ""),
-                        "shortIds": [reality_keys.get("shortId", "")]
+                        "shortId": reality_keys.get("shortId", "")
                     }
                 },
                 "sniffing": {
@@ -1494,7 +1494,7 @@ def build_reality_only_config(users):
                         "serverName": REALITY_TARGET,
                         "privateKey": reality_keys.get("privateKey", ""),
                         "publicKey": reality_keys.get("publicKey", ""),
-                        "shortIds": [reality_keys.get("shortId", "")]
+                        "shortId": reality_keys.get("shortId", "")
                     }
                 }
             }
