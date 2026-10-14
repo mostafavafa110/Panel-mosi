@@ -286,3 +286,5 @@ Mosi Panel برای این ساخته شده که مدیریت سرویس‌ها
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,45:312E81,75:101B4D,100:05001A&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
+
+<!-- reality-deploy-trigger 2026-10-14 -->
