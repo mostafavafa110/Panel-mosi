@@ -26,7 +26,7 @@ ADMIN_PASSWORD = os.environ.get("ADMIN_PASS", "admin")
 
 XRAY_PORT = 10000
 XRAY_API_PORT = 10085
-FLASK_PORT = 5000
+FLASK_PORT = int(os.environ.get("FLASK_PORT", "5000"))  # panel redeploy trigger
 # پورت REALITY (باید در Railway داشبورد TCP Proxy برایش ساخته شود)
 REALITY_PORT = int(os.environ.get("REALITY_PORT", "8443"))
 # سایتی که REALITY خودش را جای آن جا می‌زند (باید در ایران باز باشد و TLS 1.3 داشته باشد)
